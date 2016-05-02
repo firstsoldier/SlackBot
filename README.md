@@ -1,7 +1,6 @@
+###Node.js ile SlackBot
 
 ![ilberHocaBot](https://cdn-images-1.medium.com/max/1600/1*JtrgG-xXx2pge_QAA4uAcw.gif)
-
-###Node.js ile SlackBot
 
 Sisteminizde [NodeJS](https://nodejs.org/en/) ve [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) kurulu olması gerekiyor. Eğer değilse [Homebrew](http://brew.sh/) ile terminal yardımıyla kurabilirsiniz.
 
