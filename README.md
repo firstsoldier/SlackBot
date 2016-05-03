@@ -22,3 +22,4 @@ npm install
 node app.js
 ```
 
+Detaylı bilgiye Medium'da ki '[Kendi SlackBot'unu yazmak](https://medium.com/@ilkereroglu/kendi-slackbotunu-yazmak-9c722c7736cf#.yda5thh70)' adlı makalede ulaşabilirsiniz.
